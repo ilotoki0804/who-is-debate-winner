@@ -1,0 +1,5 @@
+numpy
+sklearn
+cv2
+matplotlib
+easyocr
